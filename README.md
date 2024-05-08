@@ -9,6 +9,6 @@ In this repository, I implement the specialization and certification projects th
  <br/>
  <br/>
 
-<img width="1000px" align="right"  src="https://github.com/julianasantimaria/dataAnalysis/blob/HTML/modulo1/dados.gif">
+<img width="500px" align="right"  src="https://github.com/julianasantimaria/dataAnalysis/blob/HTML/modulo1/dados.gif">
 
  <br/>
